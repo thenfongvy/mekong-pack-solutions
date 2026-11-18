@@ -188,9 +188,6 @@ body {
     align-items: start;
 }
 
-
-
-
 .form-container h2 {
     font-size: 22px;
     margin-bottom: 12px;
@@ -208,9 +205,6 @@ label {
     font-weight: bold;
     margin-bottom: 8px;
 }
-
-
-
 
 .buttons {
     display: flex;
@@ -488,7 +482,7 @@ textarea {
 }
 .bottom {
     margin-top: 28px;
-}`
+}
 .bottom p{
     font-size: 12px;
 }
