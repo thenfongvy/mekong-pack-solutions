@@ -1,0 +1,22 @@
+#hero2-section{
+    width: 100%;
+    height: auto;
+    background-color: #ECFEFF;
+    padding: 20px;
+}
+
+.type {
+    color: #0D9488;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.hero-title {
+    margin-left: 50px;   
+}
+
+.title-p {
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
